@@ -1,24 +1,33 @@
 PODS:
   - Alamofire (5.6.1)
   - GravitySliderFlowLayout (1.0)
+  - Localize-Swift (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore (= 3.2.0)
+    - Localize-Swift/UIKit (= 3.2.0)
+  - Localize-Swift/LocalizeSwiftCore (3.2.0)
+  - Localize-Swift/UIKit (3.2.0):
+    - Localize-Swift/LocalizeSwiftCore
   - SwiftyJSON (4.3.0)
 
 DEPENDENCIES:
   - Alamofire
   - GravitySliderFlowLayout
+  - Localize-Swift (~> 3.2)
   - SwiftyJSON (~> 4.0)
 
 SPEC REPOS:
   trunk:
     - Alamofire
     - GravitySliderFlowLayout
+    - Localize-Swift
     - SwiftyJSON
 
 SPEC CHECKSUMS:
   Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
   GravitySliderFlowLayout: bb9ae6a302b85821c9e0271c00533fae8091143b
+  Localize-Swift: 6f4475136bdb0d7b2882ea3d4ea919d70142b232
   SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
 
-PODFILE CHECKSUM: 5e392c2c36b6a843d9a2a686deaa3766263360c2
+PODFILE CHECKSUM: 682685b8ffab822ab089abfbc7377a41c1ce1dcd
 
 COCOAPODS: 1.11.3

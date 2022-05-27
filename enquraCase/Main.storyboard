@@ -150,10 +150,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" alpha="0.30000001192092896" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="plus_image" translatesAutoresizingMaskIntoConstraints="NO" id="oms-h6-Mfx">
-                                <rect key="frame" x="138" y="720" width="20" height="20"/>
-                            </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Beats Solo" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ryx-dZ-9Y6">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ryx-dZ-9Y6">
                                 <rect key="frame" x="20" y="534.5" width="374" height="22"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="22" id="w2c-6o-Wbu"/>
@@ -167,9 +164,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="115.66666666666663" id="qq7-Wz-mxb"/>
                                 </constraints>
-                                <string key="text">For most people, buying a new computer does not have to be as stressful as 
-buying a new car. 
-</string>
+                                <string key="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                 <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
@@ -264,12 +259,10 @@ buying a new car.
                             <constraint firstItem="ryx-dZ-9Y6" firstAttribute="centerX" secondItem="qHa-ik-pUR" secondAttribute="centerX" id="O0V-Ve-mkp"/>
                             <constraint firstItem="JC6-mK-25g" firstAttribute="top" secondItem="aCe-VK-S6D" secondAttribute="bottom" constant="5" id="QR6-lc-fqx"/>
                             <constraint firstItem="dTl-Fm-xya" firstAttribute="bottom" secondItem="JC6-mK-25g" secondAttribute="bottom" constant="74" id="VfL-oA-VNq"/>
-                            <constraint firstItem="aCe-VK-S6D" firstAttribute="leading" secondItem="oms-h6-Mfx" secondAttribute="trailing" constant="-33" id="bVx-0e-xIW"/>
                             <constraint firstItem="99e-fc-X9m" firstAttribute="centerX" secondItem="Kj5-HG-E3H" secondAttribute="centerX" id="eDG-j1-oFC"/>
                             <constraint firstItem="qHa-ik-pUR" firstAttribute="leading" secondItem="dTl-Fm-xya" secondAttribute="leading" constant="40" id="oQQ-Fe-rPQ"/>
                             <constraint firstItem="99e-fc-X9m" firstAttribute="leading" secondItem="Kj5-HG-E3H" secondAttribute="leadingMargin" id="qrK-zZ-5Cy"/>
                             <constraint firstItem="qHa-ik-pUR" firstAttribute="top" secondItem="ryx-dZ-9Y6" secondAttribute="bottom" constant="15" id="rY2-9x-GTi"/>
-                            <constraint firstItem="oms-h6-Mfx" firstAttribute="centerY" secondItem="aCe-VK-S6D" secondAttribute="centerY" id="sHd-wZ-33E"/>
                             <constraint firstItem="ryx-dZ-9Y6" firstAttribute="top" secondItem="99e-fc-X9m" secondAttribute="bottom" constant="25" id="utm-fo-WZT"/>
                         </constraints>
                     </view>
@@ -327,7 +320,6 @@ buying a new car.
     </scenes>
     <resources>
         <image name="location" width="24" height="24"/>
-        <image name="plus_image" width="20" height="20"/>
         <image name="withdrawal" width="32" height="32"/>
         <systemColor name="labelColor">
             <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>

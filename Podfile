@@ -7,6 +7,7 @@ target 'enquraCase' do
 pod 'SwiftyJSON', '~> 4.0'
 pod 'Alamofire'
 pod 'GravitySliderFlowLayout'
+pod 'Localize-Swift', '~> 3.2'
 
   # Pods for enquraCase
 

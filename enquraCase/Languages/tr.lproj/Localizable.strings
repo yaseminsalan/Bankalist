@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  enquraCase
+
+  Created by amarenasoftware on 27.05.2022.
+  
+*/
+"Search here..." = "Burada ara...";
+"No Internet connection" = "İnternet bağlantısı yok";
+"Make sure your device is connected to the internet" = "Cihazınızın internete bağlı olduğundan emin olun";
+"OK" = "Tamam";
+"Warning" = "Uyarı";
+"Currently No Bank Information." = "Şuan Banka Bilgisi Bulunmamaktadır.";
+"Error" = "Hata";
+"An Error Has Occurred. Please Try Again Later." = "Şuan Bir Hata Oluştu.Lütfen Data Sonra Tekrar Deneyin.";
+"The name of the Bank" = "Banka Adı";
+"Bank's Address" = "Bankanın Adresi";
+"Bank Type" = "Banka Tipi";
+"Bank Status" = "Banka Durumu";
+"Nearest ATM" = "En Yakın ATM";
+"Get Directions" = "Yol Tarifi Al";
