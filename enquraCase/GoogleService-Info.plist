@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>65740055077-5q0b8439fsli4dmhfell83t8g3g1v0a4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.65740055077-5q0b8439fsli4dmhfell83t8g3g1v0a4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBu4xjITKO2tS0aKoOISz4BKHSQFMBpGbg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>65740055077</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>yaseminsalan.com.enquraCase</string>
+	<key>PROJECT_ID</key>
+	<string>enquracase-c01da</string>
+	<key>STORAGE_BUCKET</key>
+	<string>enquracase-c01da.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:65740055077:ios:0f3e60fd101ef13cd995cc</string>
+</dict>
+</plist>

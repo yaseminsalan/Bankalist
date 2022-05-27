@@ -1,0 +1,6 @@
+framework module Pods_enquraCase_enquraCaseUITests {
+  umbrella header "Pods-enquraCase-enquraCaseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
