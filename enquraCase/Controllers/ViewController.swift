@@ -29,7 +29,6 @@
                 let imageView = UIImageView(image:logo)
                 imageView.contentMode = .scaleAspectFit
                 self.navigationItem.titleView = imageView
-                // Do any additional setup after loading the view.
                 LoadingOverlay.shared.showOverlay(view: UIApplication.shared.keyWindow!)
                 tableview.delegate = self
                 tableview.dataSource = self
