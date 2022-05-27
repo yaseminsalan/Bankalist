@@ -9,10 +9,10 @@
 "fgI-M1-Ebs.text" = "Label";
 
 /* Class = "UILabel"; text = "For most people, buying a new computer does not have to be as stressful as \nbuying a new car. \n"; ObjectID = "qHa-ik-pUR"; */
-"qHa-ik-pUR.text" = "For most people, buying a new computer does not have to be as stressful as \nbuying a new car. \n";
+"qHa-ik-pUR.text" = "";
 
 /* Class = "UILabel"; text = "Beats Solo"; ObjectID = "ryx-dZ-9Y6"; */
-"ryx-dZ-9Y6.text" = "Beats Solo";
+"ryx-dZ-9Y6.text" = "";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "tZ2-rs-0Tg"; */
 "tZ2-rs-0Tg.text" = "Label";

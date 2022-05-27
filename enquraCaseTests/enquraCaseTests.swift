@@ -2,7 +2,6 @@
 //  enquraCaseTests.swift
 //  enquraCaseTests
 //
-//  Created by amarenasoftware on 25.05.2022.
 //
 
 import XCTest
